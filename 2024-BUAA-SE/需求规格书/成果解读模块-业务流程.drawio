@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T02:05:30.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="MK0RSTc2L-bBnVMSWfFx" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T02:12:03.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="cH8upg4d6QbpX-KsE8Vd" version="24.1.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1261" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -32,6 +32,39 @@
             <mxPoint x="340.53" y="870" as="sourcePoint" />
             <mxPoint x="390.53" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-64" value="选择论文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-65" value="编辑解读文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-66" value="选择批注语句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-67" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是否存在相关解读文章&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;spacing=2;fontSize=20;fontColor=default;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-68" value="呈现解读文章列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-69" value="选择论文解读文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-70" value="查看论文解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-71" value="评论点赞转发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-72" value="点击发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="700" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-73" value="发布成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="695" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KKMUDHUGhAtzCMUaufeO-74" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="735" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
