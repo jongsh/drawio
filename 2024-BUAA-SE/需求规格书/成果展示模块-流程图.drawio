@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T08:36:13.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="KrQrGhmlbPfh9Bw4VJUy" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T08:39:14.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ndE4LTPZXifUTStgLbWW" version="24.2.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uq1h0jrlbMv9OfvFXu0p-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#050505;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-56" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="326.6666666666665" y="404" as="geometry" />
         </mxCell>
         <mxCell id="Uq1h0jrlbMv9OfvFXu0p-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户是否登录&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="375" width="220" height="80" as="geometry" />
@@ -33,6 +30,48 @@
             <mxPoint x="360" y="570" as="sourcePoint" />
             <mxPoint x="410" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-64" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="296" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-65" value="主页搜索框" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-64">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-66" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="440" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-67" value="热门文献推荐" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-66">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-68" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="296" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-69" value="论文搜索列表" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-68">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-70" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="910" y="296" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-71" value="论文详情页" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-70">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-72" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-73" value="AI 研读页" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-72">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-74" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="565" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-75" value="论文上传页" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-74">
+          <mxGeometry width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-76" value="" style="group;strokeWidth=2;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="150" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq1h0jrlbMv9OfvFXu0p-77" value="在线报告阅读器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;" vertex="1" parent="Uq1h0jrlbMv9OfvFXu0p-76">
+          <mxGeometry width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
