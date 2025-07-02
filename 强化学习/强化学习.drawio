@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" border="50" scale="3" compressed="false" locked="false" version="27.2.0">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2816" dy="1386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2093" dy="1442" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=16;swimlaneLine=0;dashed=1;collapsible=0;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-852" y="-506" width="1332" height="1015" as="geometry" />
+          <mxGeometry x="-852" y="-506" width="1332" height="1385" as="geometry" />
         </mxCell>
         <mxCell id="jKKv0_7eQxVgF26MUgQf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-180" target="jKKv0_7eQxVgF26MUgQf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -15,14 +15,6 @@
         </mxCell>
         <mxCell id="DzTKUxqz9tWYfkctsdNh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="jKKv0_7eQxVgF26MUgQf-10" target="DzTKUxqz9tWYfkctsdNh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="krSz1H4tb5_PnrN1vSMn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="jKKv0_7eQxVgF26MUgQf-10" target="krSz1H4tb5_PnrN1vSMn-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="krSz1H4tb5_PnrN1vSMn-15" value="&lt;font&gt;评估策略好坏&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" parent="krSz1H4tb5_PnrN1vSMn-11" vertex="1" connectable="0">
-          <mxGeometry x="0.0479" y="-1" relative="1" as="geometry">
-            <mxPoint x="-29" y="-6" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="krSz1H4tb5_PnrN1vSMn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="jKKv0_7eQxVgF26MUgQf-10" target="krSz1H4tb5_PnrN1vSMn-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,23 +34,34 @@
           <mxGeometry x="42" y="-32" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DzTKUxqz9tWYfkctsdNh-4" value="马尔可夫过程、马尔可夫决策过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="-94" y="71" width="254" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="krSz1H4tb5_PnrN1vSMn-10" value="&lt;div&gt;状态价值（状态期望回报）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="-75" y="151" width="212" height="37" as="geometry" />
+          <mxGeometry x="-52" y="33" width="254" height="34" as="geometry" />
         </mxCell>
         <mxCell id="krSz1H4tb5_PnrN1vSMn-16" value="&lt;div&gt;动作价值（动作期望回报）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="-7" y="206" width="212" height="37" as="geometry" />
+          <mxGeometry x="-41" y="179" width="212" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="krSz1H4tb5_PnrN1vSMn-36" value="&lt;div&gt;$$贝尔曼公式：v_{\pi}(s)= \sum_{a\in\mathcal{A}}\pi(a|s)\left[\sum_{r\in\mathcal{R}}p(r|s,a)r+\gamma\sum_{s^{\prime}\in\mathcal{S}}p(s^{\prime}|s,a)v_{\pi}(s^{\prime})\right]$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1625" y="-372" width="588" height="70" as="geometry" />
+        <mxCell id="krSz1H4tb5_PnrN1vSMn-36" value="&lt;div&gt;$$贝尔曼公式：V_{\pi}=R_{\pi}+\gamma P V_{\pi}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1188" y="-271" width="289" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="krSz1H4tb5_PnrN1vSMn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="krSz1H4tb5_PnrN1vSMn-10" target="krSz1H4tb5_PnrN1vSMn-36" edge="1">
+        <mxCell id="krSz1H4tb5_PnrN1vSMn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="krSz1H4tb5_PnrN1vSMn-10" target="krSz1H4tb5_PnrN1vSMn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZsCwkJQV0r_uRHZyLfL-1" value="计算方法：迭代自举" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="krSz1H4tb5_PnrN1vSMn-37">
+        <mxCell id="iZsCwkJQV0r_uRHZyLfL-1" value="计算方法：&lt;div&gt;1.解析解、&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;2.迭代自举法&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="krSz1H4tb5_PnrN1vSMn-37">
           <mxGeometry x="0.0031" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iZsCwkJQV0r_uRHZyLfL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=light-dark(#6b6b6b, #ededed);strokeWidth=2;" edge="1" parent="1" source="krSz1H4tb5_PnrN1vSMn-10" target="krSz1H4tb5_PnrN1vSMn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krSz1H4tb5_PnrN1vSMn-10" value="&lt;div&gt;状态价值（状态期望回报）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-964" y="-414" width="212" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="krSz1H4tb5_PnrN1vSMn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="jKKv0_7eQxVgF26MUgQf-10" target="krSz1H4tb5_PnrN1vSMn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="krSz1H4tb5_PnrN1vSMn-15" value="&lt;font&gt;评估策略好坏&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" parent="krSz1H4tb5_PnrN1vSMn-11" vertex="1" connectable="0">
+          <mxGeometry x="0.0479" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
