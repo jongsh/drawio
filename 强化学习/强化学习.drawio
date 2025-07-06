@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" border="50" scale="3" compressed="false" locked="false" version="27.2.0">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2618" dy="1594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2334" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=16;swimlaneLine=0;dashed=1;collapsible=0;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="-512" width="1332" height="1385" as="geometry" />
+          <mxGeometry x="-842" y="-446" width="1332" height="1385" as="geometry" />
         </mxCell>
         <mxCell id="jKKv0_7eQxVgF26MUgQf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-180" target="jKKv0_7eQxVgF26MUgQf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y6D0DEkb-gYPL5URAM-n-1" value="&lt;font style=&quot;color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;基于采样数据估计价值&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="YHKigMuBGNWTJUqa9Iyw-15">
+        <mxCell id="Y6D0DEkb-gYPL5URAM-n-1" value="&lt;font style=&quot;color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;基于采样数据估计价值&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="YHKigMuBGNWTJUqa9Iyw-15" vertex="1" connectable="0">
           <mxGeometry x="0.0033" y="-16" relative="1" as="geometry">
             <mxPoint x="16" y="18" as="offset" />
           </mxGeometry>
@@ -104,8 +104,21 @@
         <mxCell id="YHKigMuBGNWTJUqa9Iyw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="YHKigMuBGNWTJUqa9Iyw-13" target="YHKigMuBGNWTJUqa9Iyw-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y6D0DEkb-gYPL5URAM-n-2" value="&lt;font style=&quot;color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;有限状态-动作对&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="YHKigMuBGNWTJUqa9Iyw-17">
+        <mxCell id="Y6D0DEkb-gYPL5URAM-n-2" value="&lt;font style=&quot;color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;有限状态-动作对&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="YHKigMuBGNWTJUqa9Iyw-17" vertex="1" connectable="0">
           <mxGeometry x="0.0975" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AChJmF0assDOjcqlXaD_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=light-dark(#6b6b6b, #ededed);strokeWidth=2;fontSize=16;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="YHKigMuBGNWTJUqa9Iyw-13" target="AChJmF0assDOjcqlXaD_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AChJmF0assDOjcqlXaD_-5" value="RM算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" vertex="1" connectable="0" parent="AChJmF0assDOjcqlXaD_-4">
+          <mxGeometry x="-0.4053" y="5" relative="1" as="geometry">
+            <mxPoint x="-3" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AChJmF0assDOjcqlXaD_-6" value="随机梯度下降法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" vertex="1" connectable="0" parent="AChJmF0assDOjcqlXaD_-4">
+          <mxGeometry x="0.322" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -114,6 +127,9 @@
         </mxCell>
         <mxCell id="YHKigMuBGNWTJUqa9Iyw-16" value="&lt;div&gt;蒙特卡洛算法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="358" y="696" width="127" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="AChJmF0assDOjcqlXaD_-1" value="&lt;div&gt;时序差分法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="616.5" y="776" width="127" height="37" as="geometry" />
         </mxCell>
         <mxCell id="anW6oPUvbK2CG_fKDn-M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="krSz1H4tb5_PnrN1vSMn-36" target="hJSKXu2BrGVSYL8usAjy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
