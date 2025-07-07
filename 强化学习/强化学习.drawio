@@ -5,7 +5,7 @@
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=16;swimlaneLine=0;dashed=1;collapsible=0;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-842" y="-446" width="1332" height="1385" as="geometry" />
+          <mxGeometry x="-862" y="-494" width="1332" height="1385" as="geometry" />
         </mxCell>
         <mxCell id="jKKv0_7eQxVgF26MUgQf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-180" target="jKKv0_7eQxVgF26MUgQf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -30,17 +30,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iZsCwkJQV0r_uRHZyLfL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="jKKv0_7eQxVgF26MUgQf-10" target="DzTKUxqz9tWYfkctsdNh-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jKKv0_7eQxVgF26MUgQf-10" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;强化学习基础概念&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;fontSize=16;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="312" y="81" width="153" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="DzTKUxqz9tWYfkctsdNh-1" value="环境、状态、动作、策略、奖励、折扣回报等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="42" y="-32" width="205" height="49" as="geometry" />
+          <mxGeometry x="316" y="67" width="153" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DzTKUxqz9tWYfkctsdNh-4" value="马尔可夫过程、马尔可夫决策过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
-          <mxGeometry x="-52" y="33" width="254" height="34" as="geometry" />
+          <mxGeometry x="-52" y="18" width="254" height="34" as="geometry" />
         </mxCell>
         <mxCell id="krSz1H4tb5_PnrN1vSMn-16" value="&lt;div&gt;动作价值（动作期望回报）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="-25" y="202" width="212" height="37" as="geometry" />
@@ -109,15 +103,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AChJmF0assDOjcqlXaD_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=light-dark(#6b6b6b, #ededed);strokeWidth=2;fontSize=16;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="YHKigMuBGNWTJUqa9Iyw-13" target="AChJmF0assDOjcqlXaD_-1">
+        <mxCell id="AChJmF0assDOjcqlXaD_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=light-dark(#6b6b6b, #ededed);strokeWidth=2;fontSize=16;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="YHKigMuBGNWTJUqa9Iyw-13" target="AChJmF0assDOjcqlXaD_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AChJmF0assDOjcqlXaD_-5" value="RM算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" vertex="1" connectable="0" parent="AChJmF0assDOjcqlXaD_-4">
+        <mxCell id="AChJmF0assDOjcqlXaD_-5" value="RM算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" parent="AChJmF0assDOjcqlXaD_-4" vertex="1" connectable="0">
           <mxGeometry x="-0.4053" y="5" relative="1" as="geometry">
             <mxPoint x="-3" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AChJmF0assDOjcqlXaD_-6" value="随机梯度下降法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" vertex="1" connectable="0" parent="AChJmF0assDOjcqlXaD_-4">
+        <mxCell id="AChJmF0assDOjcqlXaD_-6" value="随机梯度下降法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=light-dark(#c80000, #ededed);" parent="AChJmF0assDOjcqlXaD_-4" vertex="1" connectable="0">
           <mxGeometry x="0.322" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -128,8 +122,44 @@
         <mxCell id="YHKigMuBGNWTJUqa9Iyw-16" value="&lt;div&gt;蒙特卡洛算法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="358" y="696" width="127" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="AChJmF0assDOjcqlXaD_-1" value="&lt;div&gt;时序差分法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+        <mxCell id="rlLChUQJGHAt--yOqbyX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;curved=1;strokeColor=light-dark(#6b6b6b, #ededed);" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="AChJmF0assDOjcqlXaD_-1" target="rlLChUQJGHAt--yOqbyX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-45" value="评估给定策略&lt;div&gt;动作价值&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="rlLChUQJGHAt--yOqbyX-40">
+          <mxGeometry x="0.2716" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="AChJmF0assDOjcqlXaD_-1" target="rlLChUQJGHAt--yOqbyX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-44" value="评估给定策略&lt;div&gt;状态价值&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="rlLChUQJGHAt--yOqbyX-41">
+          <mxGeometry x="0.2818" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="AChJmF0assDOjcqlXaD_-1" target="rlLChUQJGHAt--yOqbyX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-46" value="估计最优策略&lt;div&gt;的动作价值&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="rlLChUQJGHAt--yOqbyX-43">
+          <mxGeometry x="0.1669" y="-2" relative="1" as="geometry">
+            <mxPoint x="20" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AChJmF0assDOjcqlXaD_-1" value="&lt;div&gt;时序差分法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="616.5" y="776" width="127" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-1" value="&lt;div&gt;原始 TD Learning&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="611" y="933" width="138" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-39" value="&lt;div&gt;Sarsa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="460" y="908" width="63.5" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-42" value="&lt;div&gt;Q-Learning&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="817" y="908" width="102" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rlLChUQJGHAt--yOqbyX-47" value="&lt;div&gt;n-step Sarsa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="245" y="819" width="113" height="37" as="geometry" />
         </mxCell>
         <mxCell id="anW6oPUvbK2CG_fKDn-M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="krSz1H4tb5_PnrN1vSMn-36" target="hJSKXu2BrGVSYL8usAjy-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -168,6 +198,12 @@
           <mxGeometry x="0.0479" y="-1" relative="1" as="geometry">
             <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DzTKUxqz9tWYfkctsdNh-1" value="环境、状态、动作、策略、奖励、折扣回报等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-833" y="-554" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iZsCwkJQV0r_uRHZyLfL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="jKKv0_7eQxVgF26MUgQf-10" target="DzTKUxqz9tWYfkctsdNh-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
