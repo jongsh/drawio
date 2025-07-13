@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" border="50" scale="3" compressed="false" locked="false" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" border="50" scale="3" compressed="false" locked="false" version="28.0.1">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2427" dy="1712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1973" dy="1643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -130,10 +130,10 @@
         <mxCell id="uGdyaslb6LzEYvwGpBnf-3" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;model-free 算法&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;fontSize=16;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="1349" y="556" width="153" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#666666, #ededed);strokeWidth=2;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="uGdyaslb6LzEYvwGpBnf-16" target="o1xfVa4LQk4047sGfXNC-3">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#666666, #ededed);strokeWidth=2;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="uGdyaslb6LzEYvwGpBnf-16" target="o1xfVa4LQk4047sGfXNC-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-6" value="目标函数梯度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" vertex="1" connectable="0" parent="o1xfVa4LQk4047sGfXNC-4">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-6" value="目标函数梯度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#c80000, #ededed);fontSize=16;" parent="o1xfVa4LQk4047sGfXNC-4" vertex="1" connectable="0">
           <mxGeometry x="0.0764" y="-1" relative="1" as="geometry">
             <mxPoint x="-6" y="-10" as="offset" />
           </mxGeometry>
@@ -141,19 +141,30 @@
         <mxCell id="uGdyaslb6LzEYvwGpBnf-16" value="&lt;div&gt;策略梯度法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="2004" y="937" width="107" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#666666, #ededed);" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="o1xfVa4LQk4047sGfXNC-3" target="o1xfVa4LQk4047sGfXNC-7">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#666666, #ededed);" parent="Gr0Zq-AI6Quabplr0KPa-179" source="o1xfVa4LQk4047sGfXNC-3" target="o1xfVa4LQk4047sGfXNC-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-10" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;蒙特卡洛采样动作价值&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o1xfVa4LQk4047sGfXNC-8">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-10" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;蒙特卡洛采样动作价值&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o1xfVa4LQk4047sGfXNC-8" vertex="1" connectable="0">
           <mxGeometry x="-0.0783" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-3" value="$$\mathbb{E}_{S \sim d_{\pi}, A \sim \pi(S, \theta)} \left[ \nabla_\theta \ln \pi(A | S, \theta) q_\pi(S, A) \right]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+        <mxCell id="6Vp8XVf-GO7mJZ-Fz7-u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#666666, #ededed);" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="o1xfVa4LQk4047sGfXNC-3" target="6Vp8XVf-GO7mJZ-Fz7-u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Vp8XVf-GO7mJZ-Fz7-u-4" value="&lt;font color=&quot;#c80000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;神经网络表示动作价值&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#c80000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;时序差分学习更新参数&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Vp8XVf-GO7mJZ-Fz7-u-2">
+          <mxGeometry x="-0.009" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1xfVa4LQk4047sGfXNC-3" value="$$\mathbb{E}_{S \sim d_{\pi}, A \sim \pi(S, \theta)} \left[ \nabla_\theta \ln \pi(A | S, \theta) q_\pi(S, A) \right]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="1882.5" y="1050" width="350" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-7" value="&lt;div&gt;REINFORCE 算法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-7" value="&lt;div&gt;REINFORCE 算法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="1833" y="1190" width="156" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6Vp8XVf-GO7mJZ-Fz7-u-1" value="&lt;div&gt;Actor-Critic 算法&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="2170" y="1190" width="156" height="42" as="geometry" />
         </mxCell>
         <mxCell id="YHKigMuBGNWTJUqa9Iyw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#6b6b6b, #ededed);fontSize=16;" parent="1" source="uGdyaslb6LzEYvwGpBnf-11" target="YHKigMuBGNWTJUqa9Iyw-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +256,7 @@
         </mxCell>
         <mxCell id="uGdyaslb6LzEYvwGpBnf-14" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;用函数拟合采样数据&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uGdyaslb6LzEYvwGpBnf-10" vertex="1" connectable="0">
           <mxGeometry x="-0.0809" relative="1" as="geometry">
-            <mxPoint x="7" y="-5" as="offset" />
+            <mxPoint x="12" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uGdyaslb6LzEYvwGpBnf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#666666, #ededed);" parent="1" source="uGdyaslb6LzEYvwGpBnf-11" target="uGdyaslb6LzEYvwGpBnf-15" edge="1">
@@ -270,7 +281,7 @@
         <mxCell id="uGdyaslb6LzEYvwGpBnf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=2;strokeColor=light-dark(#666666, #ededed);" parent="1" source="uGdyaslb6LzEYvwGpBnf-13" target="uGdyaslb6LzEYvwGpBnf-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o1xfVa4LQk4047sGfXNC-1" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;表示策略&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uGdyaslb6LzEYvwGpBnf-18">
+        <mxCell id="o1xfVa4LQk4047sGfXNC-1" value="&lt;font style=&quot;font-size: 16px; color: light-dark(rgb(200, 0, 0), rgb(237, 237, 237));&quot;&gt;表示策略&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uGdyaslb6LzEYvwGpBnf-18" vertex="1" connectable="0">
           <mxGeometry x="-0.1042" y="-2" relative="1" as="geometry">
             <mxPoint x="12" y="-5" as="offset" />
           </mxGeometry>
